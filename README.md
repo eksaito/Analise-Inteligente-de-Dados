@@ -2,6 +2,13 @@
 
 Disciplina: COB754
 
+Bibliotecas Utilizadas (python):
+- numpy
+- pandas
+- sklearn
+- seaborn
+
+
 ## Tópicos:
 1. Tipos de dados, visualização/análise exploratória
 2. Redução de Dimensionalidade – PCA
